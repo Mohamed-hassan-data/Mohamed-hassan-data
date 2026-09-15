@@ -17,7 +17,7 @@
 
 ## About
 
-I work with business data across different domains — cleaning it, exploring it,
+I work with business data across different domains , cleaning it, exploring it,
 and building interactive dashboards on top of it. My focus is turning raw
 transactional data into clear insights: trends, performance, and patterns across
 categories, products, and regions.
