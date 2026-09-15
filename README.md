@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Hassan Elgohary</h1>
 
 <p align="center">
-  Data Analyst &nbsp;·&nbsp; Excel Dashboards &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python Data Analysis
+  Data Analyst &nbsp;·&nbsp; Excel Dashboards &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python Sql 
 </p>
 
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## About
+
 
 ## About
 
@@ -27,7 +27,6 @@ categories, products, and regions.
 
 ## Tools & Technologies
 
-|  |  |
 |  |  |
 |:--|:--|
 | **Analysis** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
