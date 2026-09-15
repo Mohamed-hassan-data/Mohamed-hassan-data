@@ -58,7 +58,6 @@ across sales, profit, quantity, discount, categories, products, and regions.
 
 ---
 
-## Contact
 
 ## Contact
 
