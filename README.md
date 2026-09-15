@@ -60,4 +60,7 @@ across sales, profit, quantity, discount, categories, products, and regions.
 
 ## Contact
 
-**LinkedIn** · [mohamed-hassan](https://www.linkedin.com/in/mohamed-hassan-8a12b0266)
+## Contact
+
+**LinkedIn** · [mohamed-hassan](https://www.linkedin.com/in/mohamed-hassan-8a12b0266)  
+**Email** · [mh7229947@gmail.com](mailto:mh7229947@gmail.com)
