@@ -1,8 +1,9 @@
 <h1 align="center">Mohamed Hassan Elgohary</h1>
 
 <p align="center">
-  Data Analyst &nbsp;·&nbsp; Excel Dashboards &nbsp;·&nbsp; Python Data Analysis
+  Data Analyst &nbsp;·&nbsp; Excel Dashboards &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python Data Analysis
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hassan-8a12b0266">
@@ -14,10 +15,13 @@
 
 ## About
 
-I work with transactional business data — cleaning it, exploring it, and building
-interactive dashboards on top of it. My focus is retail and sales analytics: how
-sales, profit, discounting and product mix behave across categories, products and
-regions.
+## About
+
+I work with business data across different domains — cleaning it, exploring it,
+and building interactive dashboards on top of it. My focus is turning raw
+transactional data into clear insights: trends, performance, and patterns across
+categories, products, and regions.
+
 
 ---
 
