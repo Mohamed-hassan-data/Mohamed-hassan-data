@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 <h1 align="center">Mohamed Hassan Elgohary</h1>
 
 <p align="center">
@@ -59,5 +56,3 @@ across sales, profit, quantity, discount, categories, products, and regions.
 
 **LinkedIn** · [mohamed-hassan](https://www.linkedin.com/in/mohamed-hassan-8a12b0266)  
 **Email** · [mh7229947@gmail.com](mailto:mh7229947@gmail.com)
-- ⚡ Fun fact: ...
--->
