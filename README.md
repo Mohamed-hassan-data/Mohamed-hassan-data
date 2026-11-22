@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Hassan Elgohary</h1>
 
 <p align="center">
-  Data Analyst &nbsp;·&nbsp; Excel Dashboards &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python Data Analysis
+  Data Analyst &nbsp;·&nbsp; Microsoft Excel  &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python Data Analysis
 </p>
 
 <p align="center">
